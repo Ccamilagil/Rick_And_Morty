@@ -1,0 +1,40 @@
+.searchBar{
+   display: flex;
+
+}
+
+.boton{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    color: rgb(247, 247, 249);
+    background-color: #03010ae2;
+    padding: 10px 24px;
+    border-radius: 4px;
+    border: 2px solid 	#f5f5f7;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+
+   
+
+}
+
+.boton:hover {
+    background-color: 	#ffffffab;
+    border: 2px solid 	#000000;
+    color: rgb(0, 0, 0);
+    transition-duration: 0.4s;
+}
+
+.input{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    color: rgb(247, 247, 249);
+    background-color: #03010ae2;
+    padding: 10px 24px;
+    border-radius: 4px;
+    border: 2px solid 	#f5f5f7;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-right: 0.2cm;
+    
+   
+}
